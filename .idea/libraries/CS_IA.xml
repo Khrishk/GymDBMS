@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CS IA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CS IA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
